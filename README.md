@@ -1,15 +1,15 @@
-##LIVRE_API documentation
+#LIVRE_API documentation
 
-Getting Started
+##Getting Started
 
-Installation des Dépendances
+###Installation des Dépendances
 
-Python 3.10.0
+####Python 3.10.0
 
-pip 21.3.1 from C:\Users\ASUS\AppData\Local\Programs\Python\Python310\lib\site-packages\pip (python 3.10)
+####pip 21.3.1 from C:\Users\ASUS\AppData\Local\Programs\Python\Python310\lib\site-packages\pip (python 3.10)
 Suivez les instructions suivantes pour installer l'ancienne version de python sur la plateforme python docs
 
-Dépendances de PIP
+####Dépendances de PIP
 Pour installer les dépendances, ouvrez le dossier /Documentation et exécuter la commande suivante:
 
 pip install -r requirements.txt
@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 
 Nous passons donc à l'installation de tous les packages se trouvant dans le fichier requirements.txt.
 
-clé de Dépendances
+#####clé de Dépendances
 
 .Flask est un petit framework web Python léger, qui fournit des outils et des fonctionnalités utiles qui facilitent la création d’applications web en Python.
 
@@ -26,7 +26,7 @@ clé de Dépendances
 
 .Flask-CORS is the extension we'll use to handle cross origin requests from our frontend server.
 
-Démarrer le serveur
+##Démarrer le serveur
 
 Pour démarrer le serveur sur Linux ou Mac, executez:
 
